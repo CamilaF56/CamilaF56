@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Camila%20Fontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-fontes-8b9170202/)](https://www.linkedin.com/in/camila-fontes-8b9170202/)
-[![Profile View Counter](https://komarev.com/ghpvc/?username=camilaf56)
+![Profile View Counter](https://komarev.com/ghpvc/?username=camilaf56)
 
 <div>
   <a href="https://github.com/CamilaF56">
