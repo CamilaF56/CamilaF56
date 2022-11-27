@@ -16,7 +16,6 @@
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
-  
 <!--
 **CamilaF56/CamilaF56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-fontes-8b9170202/)](https://www.linkedin.com/in/camila-fontes-8b9170202/)
