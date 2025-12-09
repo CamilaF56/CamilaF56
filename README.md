@@ -7,7 +7,7 @@
   <a href="https://github.com/CamilaF56">
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CamilaF56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaf56&layout=compact&theme=dark"/>
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=camilaf56&theme=dark&mode=weekly"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamilaF56&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
